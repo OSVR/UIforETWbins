@@ -4,8 +4,8 @@ This repository exists solely as a convenient way to re-use [UIforETW][] in Git 
 
 With the exception of the text files in this root directory, all contents of the repo tree are extracted from a [UIforETW etwpackage.zip release](https://github.com/google/UIforETW/releases). This README will be the only file other than the upstream files touched when committing a new release.
 
-## Current Release: v1.13 (commit 7127408)
-<https://github.com/google/UIforETW/releases/tag/v1.13>
+## Current Release: v1.15 (commit 7f59a16)
+<https://github.com/google/UIforETW/releases/tag/v1.15>
 
 ## License
 UIforETW itself and its components (including ETWProviders.dll) are provided under the Apache Software License, version 2.0 - see `LICENSE` in this directory. The binaries do bundle redistributable installers under other licenses, see the `third_party` directory for details.
