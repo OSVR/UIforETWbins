@@ -2,10 +2,10 @@
 
 This repository exists solely as a convenient way to re-use [UIforETW][] in Git repos that might be built without Visual Studio or a Windows SDK from Microsoft, as well as simplifying use even from Visual Studio.
 
-With the exception of the text files in this root directory, all contents of the repo tree are extracted from a [UIforETW etwpackage.zip release](https://github.com/google/UIforETW/releases). This README will be the only file other than the upstream files touched when committing a new release.
+With the exception of this `README.md` file, all contents of the repo tree are extracted from a [UIforETW etwpackage.zip release](https://github.com/google/UIforETW/releases). This `README.md` will be the only file other than the upstream files touched when committing a new release.
 
-## Current Release: v1.17 (commit 36dff98)
-<https://github.com/google/UIforETW/releases/tag/v1.17>
+## Current Release: v1.24 (commit 57a5a9a)
+<https://github.com/google/UIforETW/releases/tag/v1.24>
 
 (Note that the previous two non-blank lines are specially formatted for scripted [regex] extraction, and thus their format must be maintained.)
 
