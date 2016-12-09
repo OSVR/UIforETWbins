@@ -4,8 +4,8 @@ This repository exists solely as a convenient way to re-use [UIforETW][] in Git 
 
 With the exception of this `README.md` file, all contents of the repo tree are extracted from a [UIforETW etwpackage.zip release](https://github.com/google/UIforETW/releases). This `README.md` will be the only file other than the upstream files touched when committing a new release.
 
-## Current Release: v1.40 (commit 852c5cd))
-<https://github.com/google/UIforETW/releases/tag/v1.40>
+## Current Release: v1.44 (commit b8c1e1d)
+<https://github.com/google/UIforETW/releases/tag/v1.44>
 
 (Note that the previous two non-blank lines are specially formatted for scripted [regex] extraction, and thus their format must be maintained.)
 
